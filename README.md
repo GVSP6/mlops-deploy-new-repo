@@ -1,3 +1,7 @@
+## People worked :-
+sumit
+ganesh
+
 ## MLOps for SageMaker Endpoint Deployment
 
 This is a sample code repository for demonstrating how you can organize your code for deploying an realtime inference Endpoint infrastructure. This code repository is created as part of creating a Project in SageMaker. 
